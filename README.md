@@ -1,2 +1,3 @@
 # ENDPOINTS_query
-endpoits query
+SCARICA I NODE MODULES CON
+npm install node
