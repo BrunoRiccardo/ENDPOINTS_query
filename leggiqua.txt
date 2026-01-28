@@ -1,0 +1,16 @@
+
+SERVER AGGIORNATO CON QUERY, COSA FARE:
+
+nodejs serverDB.js
+
+./test_curl.sh
+
+
+GLI ALTRI FILE SONO SECONDARI
+
+
+-user: root
+-pass: root
+-server: user_flight
+-ind: localhost
+-sudo mariadb -u root -p   
